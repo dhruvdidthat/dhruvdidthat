@@ -1,11 +1,9 @@
 # About Me:
-I'm a Machine Learning student based in Noida, India, with hands-on experience in AI-driven projects and deployments. I recently worked with the Indian Space Research Organisation (ISRO) as an ML Intern, developing a multi-model architecture (CNN + ANN) for automated pulsar detection, achieving 97.8% accuracy and deploying it as a Cloud SaaS solution. I also interned at Prodigal AI, where I built Co-Agent, a multi-agent framework leveraging Google Gemini to automate LinkedIn post creation, cutting content generation time by 40%.
+I am an AI Engineer and Researcher from India with 1.5+ years of professional experience. Passionate about building large-scale systems and advanced AI, pursuing cutting-edge research in Deep Learning, Multimodal AI, NLP & Computer Vision, developing multi-agent frameworks, knowledge-retrieval pipelines, and data-driven models.
 
-My expertise lies in computer vision, NLP, and deep learning, with a strong focus on model deployment, automation, and cloud integration. I enjoy dissecting complex academic papers, applying state-of-the-art research, and simplifying concepts for both beginners and seasoned professionals in the AI/ML space.
+Currently working at SRIC, IIT Kharagpur, I focus on bridging research with real-world applications through scalable AI systems built with Python and modern ML frameworks. I enjoy solving complex problems with a competitive programming mindset and exploring how AI can transform ideas into impactful technology.
 
-Beyond machine learning, I’m passionate about design and photography, constantly seeking new ways to blend technology and art. Whether it’s crafting sleek UIs, capturing street photography, or experimenting with creative writing, I thrive on telling compelling stories through multiple mediums.
-
-Driven by curiosity and creativity, I aim to push the boundaries of machine learning while exploring innovative storytelling approaches. I’m always excited about new challenges and open to collaborating with like-minded professionals on transformative projects.
+Previously worked @ISRO, @Prodigal
 
 # Tech Stack:
 
@@ -19,13 +17,10 @@ Driven by curiosity and creativity, I aim to push the boundaries of machine lear
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%230072C6.svg?style=for-the-badge&logo=mlflow&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 # Publications:
-1. Sai Venkata Surya Punugoti, Dhruv Kumar, and Dr. Meena Vangalapati. *A Study on Machine Learning Methods: Application for Amido Black Dye Adsorption Prediction onto Green Algae Powder-Activated Carbon*. IJERT 2024, Paper ID: IJERTV13IS050153. [Link](https://www.ijert.org/machine-learning-methods-application-for-amido-black-dye-adsorption-prediction-on-to-green-algae-powder-activated-carbon)
+1. Dhruv Kumar, Somrupa Sarkar, Koustav Rudra, and Kripabandhu Ghosh. 2026. Overview of CryptOQA: Opinion Extraction and Question Answering from CryptoCurrency-Related Tweets, Reddit, and Youtube Posts. In Proceedings of the 17th annual meeting of the Forum for Information Retrieval Evaluation (FIRE '25). Association for Computing Machinery, New York, NY, USA, 32–36. [Link](https://doi.org/10.1145/3777867.3778260)
+2. Sai Venkata Surya Punugoti, Dhruv Kumar, and Dr. Meena Vangalapati. *A Study on Machine Learning Methods: Application for Amido Black Dye Adsorption Prediction onto Green Algae Powder-Activated Carbon*. IJERT 2024, Paper ID: IJERTV13IS050153. [Link](https://www.ijert.org/machine-learning-methods-application-for-amido-black-dye-adsorption-prediction-on-to-green-algae-powder-activated-carbon)
 
 # GitHub Stats:
-![SnookyDru's Stats](https://github-readme-stats.vercel.app/api?username=SnookyDru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![SnookyDru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnookyDru&theme=vue-dark&hide_border=true)
-
 ![SnookyDru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnookyDru&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
